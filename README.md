@@ -24,11 +24,11 @@ I'm always eager to learn, explore new technologies, and turn ideas into practic
 
 **Backend**
 
-`Python` · `Flask` · `C#` · `Express.js`
+`Python` · `Flask` · `C#` · `Express.js`, `FastApi`
 
 **Tools & Technologies**
 
-`Git` · `GitHub` · `VS Code` · `Unity` · `Blender`
+`Git` · `GitHub` · `VS Code` · `Unity` , `mySQL Workbench`,`MongoDB`
 
 ## 💡 A Little More About Me
 
