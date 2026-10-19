@@ -54,9 +54,9 @@ I'm currently open to new opportunities, collaborations, and exciting challenges
 
 📧 **Email:** diego_irala_1198@hotmail.com
 
-🌐 **Portfolio:** [Visit My Portfolio](https://YOUR_PORTFOLIO_URL)
+🌐 **Portfolio:** [Visit My Portfolio](https://diego-irala-portfolio.netlify.app/)
 
-💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/YOUR_PROFILE)
+💼 **LinkedIn:** [Connect with Me](www.linkedin.com/in/diego-miguel-irala-barrios-0b92bb2b0)
 
 ---
 
