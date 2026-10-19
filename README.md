@@ -1,41 +1,65 @@
-# DEV_CORE — Personal Portfolio
+# Hey there! I'm Diego Irala 👋
 
-Welcome to my personal developer portfolio! 🚀
+### Civil Engineer by profession, Software Developer by passion. 💻
 
-I'm **Diego Irala**, a Civil Engineer by profession and a Software Developer by passion.
+I'm a passionate and curious developer currently building my career in software engineering.
 
-This portfolio represents my journey into software development, showcasing my technical skills, professional background, personal projects, and continuous learning.
+My background in Civil Engineering has helped me develop strong analytical thinking, problem-solving skills, and attention to detail. After discovering my passion for programming, I decided to take on a new challenge: becoming a professional software developer.
 
-## 🌐 About the Project
+I'm always eager to learn, explore new technologies, and turn ideas into practical solutions.
 
-DEV_CORE is a modern, responsive portfolio website built to introduce myself as a developer and share my work.
+## 🚀 What I'm Up To
 
-The website features a minimalist dark theme, interactive animations, responsive layouts, and a clean user experience.
-
-### ✨ Features
-
-- **Responsive Design** — Optimized for desktop, tablet, and mobile devices.
-- **Interactive Animations** — Smooth transitions powered by Framer Motion.
-- **Technical Arsenal** — Overview of my frontend and backend technologies.
-- **Professional Experience** — Switch between Software Development and Civil Engineering experience.
-- **Featured Projects** — Showcase of my personal development projects.
-- **Contact Form** — Email integration using EmailJS.
-- **Resume Access** — Direct access to my professional CV.
-- **Modern UI** — Dark theme, glassmorphism, hover effects, and custom styling.
+- 🌱 Currently learning **Frontend & Backend Development**
+- 💻 Building projects with **React, JavaScript, TypeScript, and Python**
+- 🏗️ Exploring ways to automate Civil Engineering workflows through programming
+- 🎮 Developing my own indie game using **Unity & C#**
+- 🎯 Looking for opportunities to grow as a **Junior Software Developer**
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| React | User interface development |
-| TypeScript | Type-safe development |
-| Vite | Development and build tooling |
-| Tailwind CSS | Responsive styling |
-| Framer Motion | Animations and transitions |
-| Lucide React | Icons |
-| Embla Carousel | Interactive carousels |
-| EmailJS | Contact form integration |
+**Frontend**
 
-## 👨‍💻 About Me
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
 
-I'm
+**Backend**
+
+`Python` · `Flask` · `C#` · `Express.js`
+
+**Tools & Technologies**
+
+`Git` · `GitHub` · `VS Code` · `Unity` · `Blender`
+
+## 💡 A Little More About Me
+
+🔍 **Detail-Oriented** — I enjoy refining solutions and making sure every detail serves its purpose.
+
+🚀 **Proactive** — I take initiative, anticipate challenges, and continuously look for opportunities to improve.
+
+🧠 **Analytical Thinker** — I approach problems logically, looking for organized and efficient solutions.
+
+🌱 **Adaptable** — I'm always open to learning new technologies and stepping outside my comfort zone.
+
+## 🎮 Beyond Web Development
+
+When I'm not studying frontend or backend development, I'm probably working on my indie game, **The Spirit Path**, using Unity.
+
+Game development gives me the opportunity to combine programming, creativity, problem-solving, and interactive design.
+
+I also continue working as a freelance Civil Engineer, creating structural drawings and exploring automation opportunities.
+
+## 🤝 Let's Connect!
+
+I'm currently open to new opportunities, collaborations, and exciting challenges.
+
+📧 **Email:** diego_irala_1198@hotmail.com
+
+🌐 **Portfolio:** [Visit My Portfolio](https://YOUR_PORTFOLIO_URL)
+
+💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/YOUR_PROFILE)
+
+---
+
+### ✨ Always learning. Always building. Always improving.
+
+*Thanks for stopping by! Feel free to explore my repositories.*
