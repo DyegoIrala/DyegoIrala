@@ -50,14 +50,18 @@ I also continue working as a freelance Civil Engineer, creating structural drawi
 
 ## 🤝 Let's Connect!
 
-I'm currently open to new opportunities, collaborations, and exciting challenges.
 
-📧 **Email:** diego_irala_1198@hotmail.com
+I'm currently open to new opportunities, collaborations, and exciting challenges. Feel free to reach out!
+
+📧 **Email:** [diego_irala_1198@hotmail.com](mailto:diego_irala_1198@hotmail.com)
 
 🌐 **Portfolio:** [Visit My Portfolio](https://diego-irala-portfolio.netlify.app/)
 
-💼 **LinkedIn:** [Connect with Me](www.linkedin.com/in/diego-miguel-irala-barrios-0b92bb2b0)
+💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/diego-miguel-irala-barrios-0b92bb2b0)
 
+---
+
+✨ *Always learning. Always building. Always improving.*
 ---
 
 ### ✨ Always learning. Always building. Always improving.
